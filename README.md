@@ -6,6 +6,7 @@
 - 🚀 Quase sempre disponivel para um pair programming
 - ☕ Apaixonada por café
 - 🤓 Gosta de aprender coisas novas, principalmente se estiver ligada a automação de testes
+- 🐝 Beyhive
 
 
 ### Languages & Tools 🛠  
