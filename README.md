@@ -16,13 +16,15 @@
 
 
 ### Articles 📚
+- [Semana do QA Challenge na Avenue](https://medium.com/avenue-tech/semana-do-qa-challenge-na-avenue-ce6854e537b7)
 - [Shift-Left Testing](https://medium.com/@thamyresmoraesQA/shift-left-testing-46a55619cdd3)
 - [A diferença entre Quality Assurance (QA) e Quality Control (QC)](https://medium.com/qavengers/a-diferen%C3%A7a-entre-quality-assurance-qa-e-o-quality-control-qc-c49cd0c782ba)
 - [Cypress: Passar o mouse sobre o objeto-Plugin Cypress Real Events](https://medium.com/@thamyresmoraesQA/cypress-passar-o-mouse-sobre-o-objeto-76c8d767fd9)
 
 ### Podcast 🎧
 
-- [Semana do QA Challenge na Avenue](https://medium.com/avenue-tech/semana-do-qa-challenge-na-avenue-ce6854e537b7)
+- [Semana do QA Challenge na Avenue - Café debug](https://open.spotify.com/episode/7KUv7H0dcJhsfkTsawkbuK?si=33eb137ff6ea409f)
+- [CASE AVENUE: Testes e Qualidade - Hipsters Ponto Tech #314](https://open.spotify.com/episode/5eNHGYk5tnPfbHa4aUimMd?si=2caff91dd6e14cf1)
 
 
 ### Let's connect? 🤝
