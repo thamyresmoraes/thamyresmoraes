@@ -1,6 +1,6 @@
 <h1> 🌈 Hello!!!</h1> <hr>
 
-- 💻 QA Engineer @ Avenue
+- 💻 QA Chapter Lead @ Avenue
 - 🐶 Mãe de 2 pets
 - 🤩 Adora participar da construção de modelos de qualidade de software
 - 🚀 Quase sempre disponivel para um pair programming
