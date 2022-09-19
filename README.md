@@ -26,6 +26,9 @@
 - [Semana do QA Challenge na Avenue - Café debug](https://open.spotify.com/episode/7KUv7H0dcJhsfkTsawkbuK?si=33eb137ff6ea409f)
 - [CASE AVENUE: Testes e Qualidade - Hipsters Ponto Tech #314](https://open.spotify.com/episode/5eNHGYk5tnPfbHa4aUimMd?si=2caff91dd6e14cf1)
 
+### Video 📹
+
+- [Qualidade de software e cultura de testes na Avenue - Gabs Ferreira](https://www.youtube.com/watch?v=52NWcSpqJAQ)
 
 ### Let's connect? 🤝
 
