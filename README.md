@@ -4,7 +4,7 @@
  
  🤝🏾 Ajudo pessoas a iniciarem na área de tecnologia
  
- 🚀 Dou mentoria para QA's que querem evoluir na carreira ou profissionais que querem migrar de área
+ 🚀 Dou mentoria para QA's que querem evoluir na carreira
 
 
 ### Languages & Tools 🛠  
