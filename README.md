@@ -8,12 +8,15 @@
 
 
 ### Languages & Tools 🛠  
+
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&color=green)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=green)&nbsp;  
 ![Maestro](https://img.shields.io/badge/-Maestro-05122A?style=flat&color=orange)&nbsp;![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&color=orange)&nbsp;![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&color=orange)&nbsp;![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&color=orange)&nbsp;![RobotFramework](https://img.shields.io/badge/-RobotFramework-05122A?style=flat&color=orange)&nbsp;![Behave](https://img.shields.io/badge/-Behave-05122A?style=flat&color=orange)&nbsp;![Percy](https://img.shields.io/badge/-Percy-05122A?style=flat&color=orange)&nbsp;  
 ![Browserstack](https://img.shields.io/badge/-Browserstack-05122A?style=flat&color=gray)&nbsp;![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&color=gray)&nbsp;![CI](https://img.shields.io/badge/-CI-05122A?style=flat&color=gray)&nbsp;![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&color=gray)&nbsp;![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&color=gray)&nbsp;![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=gray)&nbsp;![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&color=gray)&nbsp;![Logentries](https://img.shields.io/badge/-Logentries-05122A?style=flat&color=gray)&nbsp;![LogDNA](https://img.shields.io/badge/-LogDNA-05122A?style=flat&color=gray)&nbsp;![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&color=gray)&nbsp;![googleCloud](https://img.shields.io/badge/-googleCloud-05122A?style=flat&color=gray)&nbsp;  
 
 
 ### Articles 📚
+- [Desafios e Estratégias na Implementação da Qualidade na Fase de Product Delivery em uma Fintech](https://www.linkedin.com/pulse/desafios-e-estrat%2525C3%2525A9gias-na-implementa%2525C3%2525A7%2525C3%2525A3o-da-qualidade-de-thamyres-m04cf%3FtrackingId=DvjMaNdnTgyMB5%252BZ%252Ba9vPA%253D%253D/?trackingId=DvjMaNdnTgyMB5%2BZ%2Ba9vPA%3D%3D)
+- [Matriz de Competências: Impulsionando o Sucesso do seu time](https://medium.com/@thamyresmoraesQA/mapa-de-compet%C3%AAncias-impulsionando-o-sucesso-do-seu-time-a7f28548362c)
 - [Minha Primeira Experiência como Chapter Lead de QA: Desafios, Crescimento e Aprendizados (PART I)](https://medium.com/@thamyresmoraesQA/minha-primeira-experiência-como-chapter-lead-de-qa-desafios-crescimento-e-aprendizados-part-i-864105b93cd2)
 -  [Matriz de Competências: Impulsionando o Sucesso do seu time](https://medium.com/@thamyresmoraesQA/mapa-de-compet%C3%AAncias-impulsionando-o-sucesso-do-seu-time-a7f28548362c)
 - [Semana do QA Challenge na Avenue](https://medium.com/avenue-tech/semana-do-qa-challenge-na-avenue-ce6854e537b7)
