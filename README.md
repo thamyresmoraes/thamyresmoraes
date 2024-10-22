@@ -1,10 +1,6 @@
 <h1> 🌈 Hello!!!</h1> <hr>
 
- 💻 QA Chapter Lead 
- 
- 🤝🏾 Ajudo pessoas a iniciarem na área de tecnologia
- 
- 🚀 Dou mentoria para QA's que querem evoluir na carreira
+ 💻 QA Principal
 
 
 ### Languages & Tools 🛠  
